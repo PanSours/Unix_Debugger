@@ -1,0 +1,6 @@
+t all 
+l
+b off
+r stdin testfile2.txt
+go
+quit
